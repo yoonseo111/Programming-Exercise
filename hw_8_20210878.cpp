@@ -1,5 +1,5 @@
 // 20221126
-// ±èÀ±¼­
+// Â±Ã¨Ã€Â±Â¼Â­
 
 #include <iostream>
 using namespace std;
