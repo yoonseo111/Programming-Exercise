@@ -1,5 +1,5 @@
 // 20221106
-// ±èÀ±¼­
+// Â±Ã¨Ã€Â±Â¼Â­
 
 #include <iostream>
 using namespace std;
@@ -34,7 +34,7 @@ int main() {
 	double num1, num2, num3;
 	cout << "Enter the three numbers: ";
 	cin >> num1 >> num2 >> num3;
-	cout << '\n' << "¿À¸§Â÷¼ø Á¤·Ä: ";
+	cout << '\n' << "Â¿Ã€Â¸Â§Ã‚Ã·Â¼Ã¸ ÃÂ¤Â·Ã„: ";
 
 	displaySortedNumbers(num1, num2, num3);
 
