@@ -1,4 +1,4 @@
-// ±èÀ±¼­
+// ê¹€ìœ¤ì„œ
 // notebook
 // Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz
 // 8.00GB
@@ -21,7 +21,7 @@ int main()
 		sum = (100 + sum) * (1 + rate);
 	}
 
-	cout << "6°³¿ù ÈÄÀÇ Àû¸³ ±Ý¾×: " << sum << endl;
+	cout << "6ê°œì›” í›„ì˜ ì ë¦½ ê¸ˆì•¡: " << sum << endl;
 
 	return 0;
 }
